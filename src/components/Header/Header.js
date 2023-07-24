@@ -40,7 +40,7 @@ const Header = () => {
         <Logo />
         <SubscribeWrapper>
           <Button>SUBSCRIBE</Button>
-          <a href="#">Already a subscriber?</a>
+          <a href="/">Already a subscriber?</a>
         </SubscribeWrapper>
       </MainHeader>
     </header>
